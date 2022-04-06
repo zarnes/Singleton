@@ -1,2 +1,2 @@
 # Singleton
-Simple SIngelton system for Unity
+Simple Singleton system for Unity
